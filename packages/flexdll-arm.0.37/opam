@@ -60,7 +60,7 @@ depends: ["ocaml" "conf-gcc-arm32" | "conf-gcc-arm64"]
 synopsis:
   "FlexDLL is a Windows dynamic linker extension allowing DLLs to depend on each other"
 extra-files: [
-  ["version.ml.in" "md5=f1bb53b9442eeda71d4963c02bf9fa84"]
+  ["version.ml.in" "md5=0df68c81aba316d24ac3b516605c190a"]
   ["flexdll-arm.install" "md5=0c2e036b485aab29b553ddf4d7677cd7"]
 ]
 url {
