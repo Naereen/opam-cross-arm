@@ -35,13 +35,13 @@ conflicts: [
 ]
 synopsis: "OCaml cross-compiler for 32-bit x86 Windows targets"
 extra-files: [
-  ["arm.conf.in" "md5=8457fb3000403fb7145f20e8a0095f89"]
-  ["remove.sh" "md5=d2ebe7ce54e4a93a4d71d5fd889f17e3"]
-  ["install.sh" "md5=585356cd8b5f6a17c9769d1deb2bda57"]
+  ["arm.conf.in" "md5=ea4749348b72a2cfa9203bb54f1410b9"]
+  ["remove.sh" "md5=a01803f791d6717a2fb82dd02f7018e0"]
+  ["install.sh" "md5=c9a1dba69b8b393cc4aa0b0b43cfa640"]
   ["build.sh" "md5=661e39ae28fb81178637519169313521"]
   ["byterun/caml/s.h" "md5=cea41384207dddbdeb1f662af40bd067"]
-  ["byterun/caml/m.h" "md5=04983943424ca21bdad1e6a0e808fdc3"]
-  ["config/Makefile.in" "md5=1c759ecb31a405cfa08bc5202cc0cd63"]
+  ["byterun/caml/m.h" "md5=04983943424ca21bdad1e6a0e808fdc3"]  
+  ["config/Makefile.in" "md5=eeb6c1c5a2c2da0dd27d6892b6a2fead"]
   [
     "patches/use-host-ocamlrun-for-stdlib-doc.patch"
     "md5=bb186ecb914bde3a0a356b691ee8b945"
