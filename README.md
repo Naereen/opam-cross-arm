@@ -19,7 +19,9 @@ Installation
 
 Add this repository to OPAM:
 
-    opam repository add arm git://github.com/ossdev07/opam-cross-arm
+    # OLD: opam repository add arm git://github.com/ossdev07/opam-cross-arm
+    # NEW: using my fork
+    opam repository add arm git@github.com:Naereen/opam-cross-arm
 
 On 64-bit build systems, switch to 32-bit compiler when compiling for 32-bit targets:
 
